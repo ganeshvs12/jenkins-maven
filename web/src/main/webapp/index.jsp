@@ -11,8 +11,8 @@
     <title>This is My first app</title>
 </head>
 <body>
-	<p></p> 
-	<h1>I am from ec2 maven</h1>
+	<p>HElllo JENKINS</p> 
+	<h1>I am from jenkins maven</h1>
 <h1>hi i am just pushed from the developer machine</h1>
   <p>
     This is a very simple example web page on a JSP.
